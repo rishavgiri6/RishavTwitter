@@ -12,14 +12,14 @@ A simple app modelled on the Twitter social networking platform built in Flask
 
 
 
-## Features and Requirements
+## Features
 - [x] User can register/signin/signout
 - [x] User can post tweets
 - [x] Added a simple all users profile management page
 - [x] User can follow users and get their tweets
 - [x] Add more tests
-- [ ] Refactor
-
+- [ ] Refactoring and like functionality
+- [ ] UI updation
 ## License
 
 MIT License
