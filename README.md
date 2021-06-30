@@ -2,7 +2,7 @@
 
 
 
-A simple app modelled on the Twitter social networking platform built in Flask
+A modular clone modelled on the Twitter social networking platform built in Flask, Postgres and Python supporting all CRUD functionalities
 
 ### Stack
 
