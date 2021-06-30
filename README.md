@@ -20,6 +20,18 @@ A simple app modelled on the Twitter social networking platform built in Flask
 - [x] Add more tests
 - [ ] Refactoring and like functionality
 - [ ] UI updation
+
+##Future Integrations:
+Quote a Tweet: One of the most used aspects of Twitter is retweets with comments. To do that, users can click the retweet icon in the app then select the person you want to retweet. A retweet is used to appreciate one’s tweet and agrees with them.
+
+Create lists: Users can create a list with people they often chat or view. These lists appear on a separate tab so that users can check it as and when they require it. These lists can be changed to the public or private view.
+
+Tagging users: If a particular tweet is related to the users, they can be tagged in the tweet. So once the tweet goes live, the tagged members are notified.
+
+Pining tweet: Users can pin tweets in the Twitter clone app, and then it will appear on top of the profile. People usually use this feature to gain more attention to a particular link or tweet.
+
+Website cards: Users can post links as images through these web card features. Other users are navigated to the connected website when they click on it.
+
 ## License
 
 MIT License
